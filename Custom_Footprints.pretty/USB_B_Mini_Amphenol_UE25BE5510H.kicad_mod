@@ -1,6 +1,6 @@
 (footprint "USB_B_Mini_Amphenol_UE25BE5510H" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 63647E52)
+  (tedit 6364F4BB)
   (descr "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/pue25bex510x.pdf")
   (attr through_hole)
   (fp_text reference "REF**" (at 0 3.05) (layer "F.SilkS")
@@ -22,7 +22,7 @@
   (pad "5" thru_hole oval (at -1.6 -1.3) (size 1.1 1.7) (drill 0.7) (layers *.Cu *.Mask) (tstamp 769bf7c5-8d42-4de0-9e9f-51b86971a2d4))
   (pad "6" thru_hole oval (at -3.65 0) (size 1.4 3.9) (drill oval 0.65 2.4) (layers *.Cu *.Mask) (tstamp 5ddb2872-c43e-4630-930b-90780fef8655))
   (pad "6" thru_hole oval (at 3.65 0.2) (size 1.4 3.9) (drill oval 0.65 2.4) (layers *.Cu *.Mask) (tstamp a89438fd-2dba-4b3f-bf55-9b8405e4386d))
-  (model "${KICAD6_CUSTOM_COMPONENTS_DIR}/Models.3dshapes/USB_B_Mini_Amphenol_UE25BE5510H.step"
+  (model "${KICAD6_USER_COMPONENTS_DIR}/Custom_Models.3dshapes/USB_B_Mini_Amphenol_UE25BE5510H.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
