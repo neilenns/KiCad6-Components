@@ -1,6 +1,6 @@
 (footprint "SW_PUSH_LED_SMD" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 638E298A)
+  (tedit 63911B26)
   (descr "6x6 illuminated pushbutton surface mount")
   (tags "tact sw push 6mm")
   (attr through_hole)
@@ -46,7 +46,7 @@
   (pad "2" smd rect (at -4.826 2.298 90) (size 1.2 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6de9a4eb-19b5-48a8-85ac-5734cecea988))
   (pad "3" smd rect (at 0 -4.826) (size 1 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 47b3739e-28cd-41d9-8716-c935fda19076))
   (pad "4" smd rect (at 0 4.953) (size 1 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6faa355f-9d08-4dfa-b3e6-58b461b2063e))
-  (model "${KICAD6_CUSTOM_COMPONENTS_DIR}/Custom_Models.3dshapes/SW_PUSH_LED.step"
+  (model "${KICAD6_CUSTOM_COMPONENTS_DIR}/Custom_Models.3dshapes/6x6 LED button SMD.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
