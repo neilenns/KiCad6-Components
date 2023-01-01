@@ -5,6 +5,11 @@
   )
 
   (paper "A4")
+  (title_block
+    (date "${DATE}")
+    (rev "${VERSION}")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
@@ -86,6 +91,9 @@
       (outputdirectory "")
     )
   )
+
+  (property "DATE" "")
+  (property "VERSION" "")
 
   (net 0 "")
   (net 1 "/XIN")
