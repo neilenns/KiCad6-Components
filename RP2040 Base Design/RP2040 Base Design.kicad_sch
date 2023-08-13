@@ -13,7 +13,6 @@
   )
 
 
-
   (no_connect (at 41.275 74.93) (uuid 0806e1fb-fd48-4b3d-8bbe-c348a044b6c5))
   (no_connect (at 41.275 31.75) (uuid 0820a483-5e6f-4694-9ab0-e79e7f9775f5))
   (no_connect (at 41.275 85.09) (uuid 14d6d401-a404-4c2f-a8da-d54e532483d5))
@@ -331,6 +330,9 @@
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/5032b52d-fb14-4fb1-916e-c43f68350d75"
       (reference "#PWR042") (unit 1) (value "GND") (footprint "")
     )
+    (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/4c88f773-0340-47b3-8e54-4fbcbcf455c5"
+      (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
+    )
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/914b97a7-9ab8-451c-a722-b00b43b0407a"
       (reference "#PWR0102") (unit 1) (value "GND") (footprint "")
     )
@@ -345,6 +347,9 @@
     )
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/b53297b9-b708-4ab8-87e2-5856dafbf067"
       (reference "#PWR0106") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/b4076a95-c4bf-4f07-8407-255f4f064556"
+      (reference "#PWR0107") (unit 1) (value "GND") (footprint "")
     )
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/b1963135-4b74-43e8-9957-bccbc74407af"
       (reference "#PWR0108") (unit 1) (value "GND") (footprint "")
@@ -380,34 +385,34 @@
       (reference "C5") (unit 1) (value "10pF") (footprint "Custom_Footprints:Perfect_0402")
     )
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/4b77d0a4-5200-4718-ad55-d12fcc0160fd"
-      (reference "C6") (unit 1) (value "1uF") (footprint "Custom_Footprints:Perfect_0402")
+      (reference "C6") (unit 1) (value "100nF") (footprint "Custom_Footprints:Perfect_0402")
     )
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/6ad02073-0558-42a4-92fa-4add44c180cf"
-      (reference "C7") (unit 1) (value "1uF") (footprint "Custom_Footprints:Perfect_0402")
+      (reference "C7") (unit 1) (value "100nF") (footprint "Custom_Footprints:Perfect_0402")
     )
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/edc5129d-f46c-479a-bd75-243c78b54fdb"
       (reference "C8") (unit 1) (value "1uF") (footprint "Custom_Footprints:Perfect_0402")
     )
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/4a5d9644-2379-4885-b4a6-a8623a813c99"
-      (reference "C9") (unit 1) (value "1uF") (footprint "Custom_Footprints:Perfect_0402")
+      (reference "C9") (unit 1) (value "100nF") (footprint "Custom_Footprints:Perfect_0402")
     )
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/169ff030-0e51-4ebc-85c7-e586ef119eec"
       (reference "C10") (unit 1) (value "1uF") (footprint "Custom_Footprints:Perfect_0402")
     )
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/42d1103b-01a9-4ce4-8c43-2c32be677f5a"
-      (reference "C11") (unit 1) (value "1uF") (footprint "Custom_Footprints:Perfect_0402")
+      (reference "C11") (unit 1) (value "100nF") (footprint "Custom_Footprints:Perfect_0402")
     )
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/944edb35-9f5b-4576-8b54-6d6a09845a77"
-      (reference "C12") (unit 1) (value "1uF") (footprint "Custom_Footprints:Perfect_0402")
+      (reference "C12") (unit 1) (value "100nF") (footprint "Custom_Footprints:Perfect_0402")
     )
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/6d63f474-3068-4498-806c-b83853047f41"
-      (reference "C13") (unit 1) (value "1uF") (footprint "Custom_Footprints:Perfect_0402")
+      (reference "C13") (unit 1) (value "100nF") (footprint "Custom_Footprints:Perfect_0402")
     )
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/4e171e27-0952-4a5f-bd26-afc8662a6d9a"
-      (reference "C14") (unit 1) (value "1uF") (footprint "Custom_Footprints:Perfect_0402")
+      (reference "C14") (unit 1) (value "100nF") (footprint "Custom_Footprints:Perfect_0402")
     )
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/922e7e97-b300-4efc-863d-349e61465157"
-      (reference "C15") (unit 1) (value "1uF") (footprint "Custom_Footprints:Perfect_0402")
+      (reference "C15") (unit 1) (value "100nF") (footprint "Custom_Footprints:Perfect_0402")
     )
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/0a098971-8170-4313-af7d-cc4b35a48563"
       (reference "J1") (unit 1) (value "USB_B_Micro") (footprint "Custom_Footprints:USB_B_Mini_Amphenol_UE25BE5510H")
