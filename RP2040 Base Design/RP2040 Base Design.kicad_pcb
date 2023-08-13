@@ -155,7 +155,7 @@
     (tedit 6362F579) (tstamp 02def6a4-1be0-4765-90e3-5ec2fc49ab46)
     (at 30.607 26.797 90)
     (descr "https://www.worthingtonassembly.com/perfect-0402-footprint")
-    (property "MPN - JLCPCB" "C52923")
+    (property "MPN - JLCPCB" "C1525")
     (property "Sheetfile" "RP2040.kicad_sch")
     (property "Sheetname" "RP2040")
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/42d1103b-01a9-4ce4-8c43-2c32be677f5a")
@@ -165,7 +165,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp e7427ff3-a72c-4d36-b2da-a60259365fb9)
     )
-    (fp_text value "1uF" (at 0 1.3 90) (layer "B.Fab") hide
+    (fp_text value "100nF" (at 0 1.3 90) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 5b50c2dd-efeb-43b5-aa70-380fc170da00)
     )
@@ -229,7 +229,7 @@
     (tedit 6362F579) (tstamp 0b059e08-48b7-4333-b01d-cdf123e12b69)
     (at 25.908 32.385 180)
     (descr "https://www.worthingtonassembly.com/perfect-0402-footprint")
-    (property "MPN - JLCPCB" "C52923")
+    (property "MPN - JLCPCB" "C1525")
     (property "Sheetfile" "RP2040.kicad_sch")
     (property "Sheetname" "RP2040")
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/944edb35-9f5b-4576-8b54-6d6a09845a77")
@@ -239,7 +239,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp b23bc7a3-8af9-43ce-bf6b-fd9f553270eb)
     )
-    (fp_text value "1uF" (at 0 1.3) (layer "B.Fab") hide
+    (fp_text value "100nF" (at 0 1.3) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp efdf5880-443d-433d-a64f-a57a1d08b34f)
     )
@@ -309,7 +309,7 @@
     (tedit 6362F579) (tstamp 18fb3775-02d7-4bbd-8b21-eff9f0c6fdef)
     (at 34.544 37.211 -90)
     (descr "https://www.worthingtonassembly.com/perfect-0402-footprint")
-    (property "MPN - JLCPCB" "C52923")
+    (property "MPN - JLCPCB" "C1525")
     (property "Sheetfile" "RP2040.kicad_sch")
     (property "Sheetname" "RP2040")
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/4e171e27-0952-4a5f-bd26-afc8662a6d9a")
@@ -319,7 +319,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 7b484678-4d77-48ca-afb1-6ee93a919f6d)
     )
-    (fp_text value "1uF" (at 0 1.3 90) (layer "B.Fab") hide
+    (fp_text value "100nF" (at 0 1.3 90) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 80039fe5-f22b-4237-9b3b-cf6bbe0c2156)
     )
@@ -423,9 +423,9 @@
 
   (footprint "Custom_Footprints:Perfect_0402" (layer "B.Cu")
     (tedit 6362F579) (tstamp 299405f9-a8da-40aa-a785-951754bc9be1)
-    (at 35.941 28.067 90)
+    (at 34.417 27.051 90)
     (descr "https://www.worthingtonassembly.com/perfect-0402-footprint")
-    (property "MPN - JLCPCB" "C52923")
+    (property "MPN - JLCPCB" "C1525")
     (property "Sheetfile" "RP2040.kicad_sch")
     (property "Sheetname" "RP2040")
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/4a5d9644-2379-4885-b4a6-a8623a813c99")
@@ -435,7 +435,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp ebc91343-73d5-425a-ba74-c751670e32d7)
     )
-    (fp_text value "1uF" (at 0 1.3 90) (layer "B.Fab") hide
+    (fp_text value "100nF" (at 0 1.3 90) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 58f680d1-7397-475e-bb66-1b0ec91db9b5)
     )
@@ -462,7 +462,7 @@
     (tedit 6362F579) (tstamp 312bb836-549f-41e7-9e03-466341a7fc0a)
     (at 37.084 32.512)
     (descr "https://www.worthingtonassembly.com/perfect-0402-footprint")
-    (property "MPN - JLCPCB" "C52923")
+    (property "MPN - JLCPCB" "C1525")
     (property "Sheetfile" "RP2040.kicad_sch")
     (property "Sheetname" "RP2040")
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/4b77d0a4-5200-4718-ad55-d12fcc0160fd")
@@ -472,7 +472,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 0052c415-d790-42a0-b120-58488fa09e04)
     )
-    (fp_text value "1uF" (at 0 1.3) (layer "B.Fab") hide
+    (fp_text value "100nF" (at 0 1.3) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp a8b4d61e-ce79-47df-86b7-cb9066c45f92)
     )
@@ -592,7 +592,7 @@
 
   (footprint "Custom_Footprints:Perfect_0402" (layer "B.Cu")
     (tedit 6362F579) (tstamp 50181d10-cd98-45a3-93c6-0f9891cdd117)
-    (at 34.417 27.051 90)
+    (at 35.941 28.067 90)
     (descr "https://www.worthingtonassembly.com/perfect-0402-footprint")
     (property "MPN - JLCPCB" "C52923")
     (property "Sheetfile" "RP2040.kicad_sch")
@@ -631,7 +631,7 @@
     (tedit 6362F579) (tstamp 62103c11-51d2-468d-851b-b3ecb76379fd)
     (at 30.6164 38.0084 -90)
     (descr "https://www.worthingtonassembly.com/perfect-0402-footprint")
-    (property "MPN - JLCPCB" "C52923")
+    (property "MPN - JLCPCB" "C1525")
     (property "Sheetfile" "RP2040.kicad_sch")
     (property "Sheetname" "RP2040")
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/6d63f474-3068-4498-806c-b83853047f41")
@@ -641,7 +641,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp b29c3d1a-bb57-4e68-88ff-a0471bee36d3)
     )
-    (fp_text value "1uF" (at 0 1.3 90) (layer "B.Fab") hide
+    (fp_text value "100nF" (at 0 1.3 90) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp c779cb0c-e4dc-4efc-a060-908bf2219140)
     )
@@ -1354,7 +1354,7 @@
 
   (footprint "Custom_Footprints:Perfect_0402" (layer "B.Cu")
     (tedit 6362F579) (tstamp 8b624943-8a07-4643-8235-6403850bf4e3)
-    (at 25.908 31.369 180)
+    (at 36.703 29.845)
     (descr "https://www.worthingtonassembly.com/perfect-0402-footprint")
     (property "MPN - JLCPCB" "C52923")
     (property "Sheetfile" "RP2040.kicad_sch")
@@ -1362,7 +1362,7 @@
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/edc5129d-f46c-479a-bd75-243c78b54fdb")
     (clearance 0.15)
     (attr smd)
-    (fp_text reference "C8" (at 0 -1.3) (layer "B.Fab") hide
+    (fp_text reference "C7" (at 0 -1.3) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp f5b46c94-37f3-49d7-970a-0b2fc4d360cf)
     )
@@ -1378,9 +1378,9 @@
     (fp_line (start 1.05 -0.5) (end -1.05 -0.5) (layer "B.CrtYd") (width 0.05) (tstamp e77cdda7-426f-4d81-947d-3531bcb14e2b))
     (fp_line (start -0.5 0.3) (end 0.55 0.3) (layer "B.Fab") (width 0.1) (tstamp 2f4fca68-ad3d-42af-a65a-2dfd84c64f23))
     (fp_line (start -0.5 -0.3) (end 0.55 -0.3) (layer "B.Fab") (width 0.1) (tstamp 56614d25-92fe-4928-ba13-f50ff5bf48ed))
-    (pad "1" smd rect (at -0.5 0 180) (size 0.6 0.7) (layers "B.Cu" "B.Paste" "B.Mask")
+    (pad "1" smd rect (at -0.5 0) (size 0.6 0.7) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 6 "+1V1") (pintype "passive") (tstamp 03e09325-617a-453f-912d-16994275e606))
-    (pad "2" smd rect (at 0.5 0 180) (size 0.6 0.7) (layers "B.Cu" "B.Paste" "B.Mask")
+    (pad "2" smd rect (at 0.5 0) (size 0.6 0.7) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "GND") (pintype "passive") (tstamp 8017ba4d-2cf4-4083-b97a-55033fb6b9ab))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
       (offset (xyz 0 0 0))
@@ -1551,7 +1551,7 @@
     (tedit 6362F579) (tstamp d618548f-a200-4619-96bb-6d3c613c7ef6)
     (at 37.084 31.496)
     (descr "https://www.worthingtonassembly.com/perfect-0402-footprint")
-    (property "MPN - JLCPCB" "C52923")
+    (property "MPN - JLCPCB" "C1525")
     (property "Sheetfile" "RP2040.kicad_sch")
     (property "Sheetname" "RP2040")
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/922e7e97-b300-4efc-863d-349e61465157")
@@ -1561,7 +1561,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 6809f2e3-293c-4475-865a-5b3dabb3e2c3)
     )
-    (fp_text value "1uF" (at 0 1.3) (layer "B.Fab") hide
+    (fp_text value "100nF" (at 0 1.3) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp f522bbc4-470e-41c0-b3d8-648cce94e290)
     )
@@ -1623,19 +1623,19 @@
 
   (footprint "Custom_Footprints:Perfect_0402" (layer "B.Cu")
     (tedit 6362F579) (tstamp e816ae3b-6b15-42ac-8c6b-0d5e93524c26)
-    (at 36.703 29.845)
+    (at 25.908 31.369 180)
     (descr "https://www.worthingtonassembly.com/perfect-0402-footprint")
-    (property "MPN - JLCPCB" "C52923")
+    (property "MPN - JLCPCB" "C1525")
     (property "Sheetfile" "RP2040.kicad_sch")
     (property "Sheetname" "RP2040")
     (path "/99e5628a-8c61-4f9d-aa6e-5b585271b505/6ad02073-0558-42a4-92fa-4add44c180cf")
     (clearance 0.15)
     (attr smd)
-    (fp_text reference "C7" (at 0 -1.3) (layer "B.Fab") hide
+    (fp_text reference "C8" (at 0 -1.3) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 38dc9787-3773-4a65-9eac-77f34d6df8dc)
     )
-    (fp_text value "1uF" (at 0 1.3) (layer "B.Fab") hide
+    (fp_text value "100nF" (at 0 1.3) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp c63d6947-c16a-4323-b8e9-fceaef7fae24)
     )
@@ -1647,9 +1647,9 @@
     (fp_line (start -1.05 0.5) (end -1.05 -0.5) (layer "B.CrtYd") (width 0.05) (tstamp e1afce0e-1eaa-4133-b203-52f853aa0c00))
     (fp_line (start -0.5 -0.3) (end 0.55 -0.3) (layer "B.Fab") (width 0.1) (tstamp 6090a5dc-a133-43f4-bd70-751396f48e1d))
     (fp_line (start -0.5 0.3) (end 0.55 0.3) (layer "B.Fab") (width 0.1) (tstamp 71b1a0af-906e-4e04-87ac-afbf3cfc139a))
-    (pad "1" smd rect (at -0.5 0) (size 0.6 0.7) (layers "B.Cu" "B.Paste" "B.Mask")
+    (pad "1" smd rect (at -0.5 0 180) (size 0.6 0.7) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 6 "+1V1") (pintype "passive") (tstamp dea47b7f-868f-4ceb-8a9e-a75553c9a212))
-    (pad "2" smd rect (at 0.5 0) (size 0.6 0.7) (layers "B.Cu" "B.Paste" "B.Mask")
+    (pad "2" smd rect (at 0.5 0 180) (size 0.6 0.7) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "GND") (pintype "passive") (tstamp 9dd818a5-7626-47ca-ad94-582e9a24ea79))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
       (offset (xyz 0 0 0))
